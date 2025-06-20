@@ -1,7 +1,7 @@
 # AI-assignment
 # 📝 Meeting Action Item Extractor
 
-## 📌 Project Overview
+##  Project Overview
 
 This project extracts **action items** from meeting transcripts using a Large Language Model (LLM) via the **LangChain** framework and **OpenAI's GPT-4**.
 
@@ -9,7 +9,7 @@ The model reads natural conversation and outputs only the important tasks or dec
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python**
 - **Google Colab**
@@ -19,7 +19,7 @@ The model reads natural conversation and outputs only the important tasks or dec
 
 ---
 
-## 💡 Code Explanation
+##  Code Explanation
 
 1. **Transcript Input**  
    A sample meeting transcript is provided as a multi-line string.
