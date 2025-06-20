@@ -1,5 +1,5 @@
 # AI-assignment
-# 📝 Meeting Action Item Extractor
+# Meeting Action Item Extractor
 
 ##  Project Overview
 
